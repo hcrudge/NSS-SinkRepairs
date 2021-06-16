@@ -24,13 +24,6 @@
       "address": "3450 Port St. Lucie",
       "budget": 200,
       "neededBy": "2021-03-15"
-    },
-    {
-      "description": "New water line to laundry room",
-      "address": "100 Country Road",
-      "budget": "2000",
-      "neededBy": "2021-08-18",
-      "id": 3
     }
   ]
 }
