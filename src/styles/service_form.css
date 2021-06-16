@@ -1,0 +1,26 @@
+.field {
+    flex-direction: column;
+    margin-bottom: 5%;
+}
+.label{
+    flex: auto;
+  
+
+}
+.input{
+    margin-top: 1%;
+    display:flex;
+    
+}
+.input, select{
+    width: 100%;
+    
+}
+
+#submitRequest {
+    margin: 1rem 0 2rem 0;
+    padding: 0.5rem;
+    background-color: rgb(18, 49, 221);
+    color: lightgoldenrodyellow;
+    font-size: 1rem;
+}
