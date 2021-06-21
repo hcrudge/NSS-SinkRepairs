@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
-@import "service_form.css";
+@import "details.css";
 /*Typography
 --------------------------------------------------------------*/
 body,
@@ -18,3 +18,6 @@ h1,h2,h3,h4,h5,h6 {
   letter-spacing: 2px;
 }
 
+ul{
+	list-style-type: none;
+}

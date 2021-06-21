@@ -8,12 +8,13 @@
 .input{
     margin-top: 1%;
     display:flex;
-    
-}
-.input, select{
     width: 90%;
     
 }
+/* .input, select{
+    width: 90%;
+    
+} */
 
 #submitRequest {
     margin: 1rem 0 2rem 0;
@@ -22,3 +23,7 @@
     color: lightgoldenrodyellow;
     font-size: 1rem;
 }
+.requestList{
+    background-color: aquamarine;
+}
+
