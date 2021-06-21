@@ -9,7 +9,38 @@
       "name": "Merle"
     }
   ],
-  "completions": [],
+  "completions": [
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": 1624294091495,
+      "id": 1
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": 1624294093961,
+      "id": 2
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": 1624294179642,
+      "id": 3
+    },
+    {
+      "requestId": 2,
+      "plumberId": 2,
+      "date_created": 1624294199660,
+      "id": 4
+    },
+    {
+      "requestId": 3,
+      "plumberId": 1,
+      "date_created": 1624294209925,
+      "id": 5
+    }
+  ],
   "requests": [
     {
       "id": 1,
@@ -24,6 +55,13 @@
       "address": "3450 Port St. Lucie",
       "budget": 200,
       "neededBy": "2021-03-15"
+    },
+    {
+      "description": "fix sink",
+      "address": "1235flskdf",
+      "budget": "1000",
+      "neededBy": "2021-06-30",
+      "id": 3
     }
   ]
 }
